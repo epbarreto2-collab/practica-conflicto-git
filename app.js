@@ -1,5 +1,5 @@
 function mensaje(){
-    console.log("Aplicación inicial");
+    console.log("Aplicación del conflicto");
 }
 
 mensaje();
